@@ -62,7 +62,7 @@ Open Kaggle and upload the downloaded notebook. Then run the data import and lib
 1. Run the first cells (Data Import and Libraries)
 2. Run de `model` definition cell (Wich starts with
 `model = models.Sequential()`)
-3. Add [this Data](https://www.kaggle.com/datasets/santiagoahumadal/best-model) from kaggle notebooks
+3. Add [this Data](https://www.kaggle.com/datasets/santiagoahumadal/best-model) to your kaggle notebook.
 4. Load the model by running the **last** two cells.
 ## Credits
 

@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A scikit-learn implementation of linear regressors.</h4>
+<h4 align="center">A Keras implementation of Convolutional Neural Networks.</h4>
 
 <p align="center">
   <a href='https://keras.io/' target="_blank"><img alt='keras' src='https://img.shields.io/badge/Keras-100000?style=for-the-badge&logo=keras&logoColor=FFFFFF&labelColor=D10000&color=D10000'/></a> <a href='https://www.tensorflow.org/?hl=es-419' target="_blank"><img alt='tensorflow' src='https://img.shields.io/badge/Tensorflow-100000?style=for-the-badge&logo=tensorflow&logoColor=EC8D1E&labelColor=908B8B&color=E45A27'/></a> <a href='https://www.kaggle.com/' target="_blank"><img alt='kaggle' src='https://img.shields.io/badge/Kaggle-100000?style=for-the-badge&logo=kaggle&logoColor=37BAE8&labelColor=BEFDFF&color=37BAE8'/></a>

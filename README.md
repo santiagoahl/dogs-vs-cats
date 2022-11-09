@@ -38,7 +38,7 @@
 
 ## How To Use
 
-To clone and run this application, you will need A [Kaggle Account](https://git-scm.com). Note: You can avoid the following cloning steps by just downloading the notebook manually.
+To clone and run this application, you will need A [Kaggle Account](https://www.kaggle.com/account/login?phase=startRegisterTab&returnUrl=%2F). Note: You can avoid the following cloning steps by just downloading the notebook manually.
 
 ```bash
 # Clone this repository

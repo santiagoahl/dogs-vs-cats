@@ -20,8 +20,6 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://editor.analyticsvidhya.com/uploads/999181_BIpRgx5FsEMhr1k2EqBKFg.gif)
-
 ## Key Features
 
 * This deep learning model classifies a photo into cat or dog. It's built with a deep convolutional neural network architecture with de Tensor Flow API Keras. Also uses
